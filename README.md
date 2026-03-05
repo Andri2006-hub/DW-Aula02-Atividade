@@ -7,3 +7,9 @@ node atividade-aula02.js
 *
 
 ## *🎯 RESULTADO FINAL:*
+
+*
+
+### *🎉 FINALIZADO! Copie este link:**https://github.com/Andri2006-hub/dw-aula02-atividade
+
+
