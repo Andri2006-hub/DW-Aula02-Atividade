@@ -3,3 +3,7 @@
 ## Como rodar
 ```bash
 node atividade-aula02.js
+
+*
+
+## *🎯 RESULTADO FINAL:*
